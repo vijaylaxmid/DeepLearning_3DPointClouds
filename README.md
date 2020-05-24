@@ -16,7 +16,7 @@ https://medium.com/@vijaylaxmi.nagurkar/deep-learning-for-3d-point-clouds-b40a04
 
 ##### Slideshare Link:
 
-https://www.slideshare.net/secret/e0NtUirRyXdU9Y
+https://www.slideshare.net/VijaylaxmiNagurkar/deep-learning-for-3-d-point-clouds-presentation
 
 ##### Short Movie Recording
 
