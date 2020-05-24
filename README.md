@@ -12,7 +12,7 @@ Point cloud is point sets defined in 3D metric space. Point cloud has become one
 
 ##### Medium Article Link:
 
-https://medium.com/@vijaylaxmi.nagurkar/deep-learning-for-3d-point-clouds-c4e3448c401d
+https://medium.com/@vijaylaxmi.nagurkar/deep-learning-for-3d-point-clouds-b40a04a45726
 
 ##### Slideshare Link:
 
