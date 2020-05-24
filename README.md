@@ -20,8 +20,7 @@ https://www.slideshare.net/VijaylaxmiNagurkar/deep-learning-for-3-d-point-clouds
 
 ##### Short Movie Recording
 
-https://drive.google.com/open?id=1LZFPwKD-DtWUOsFsp3tKKqAw3bhxu6Vw
-
+https://drive.google.com/drive/u/0/folders/1hkLQKGInmBePZ1UOWuz91A3T2f7oVALu
 
 ### References
 
